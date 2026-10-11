@@ -81,11 +81,21 @@ Demostración de la capacidad del asistente para cruzar dos pretensiones de la l
 │   ├── etapa_3.png
 │   └── resultado_parcial.png
 └── knowledge/
-    ├── ley_27423_nacion.pdf
-    ├── ley_5134_caba.pdf
-    └── plantilla_modelo_presupuesto.docx
+    ├── Ley_5134_Honorarios_CABA.txt
+    ├── Ley_5134_Honorarios_CABA.pdf
+    ├── Ley_27423_Honorarios_PJN.txt
+    ├── Ley_27423_Honorarios_PJN.pdf
+    ├── Plantilla_de_Presupuesto_Juridico_CABA.md
+    └── Plantilla_de_Presupuesto_Juridico_CABA.docx
  ```
  
+### 📂 Acceso Directo a la Base de Conocimiento (`knowledge/`)
+Para facilitar la lectura directa sin necesidad de descargar archivos, la documentación normativa y la plantilla del presupuesto se encuentran disponibles tanto en versiones de lectura nativa (`.txt` y `.md`) como en sus archivos originales para descarga:
+
+* 📄 **Plantilla de Presupuesto:** [Ver en Markdown](knowledge/Plantilla_de_Presupuesto_Juridico_CABA.md) | [Descargar Word (.docx)](https://raw.githubusercontent.com/NoeliaOrsini/presupuestador-juridico-inteligente/main/knowledge/Plantilla_de_Presupuesto_Juridico_CABA.docx)
+* ⚖ **Ley 5.134 (CABA):** [Ver en Texto Plano](knowledge/Ley_5134_Honorarios_CABA.txt) | [Descargar PDF](https://raw.githubusercontent.com/NoeliaOrsini/presupuestador-juridico-inteligente/main/knowledge/Ley_5134_Honorarios_CABA.pdf)
+* 🏛 **Ley 27.423 (Nación):** [Ver en Texto Plano](knowledge/Ley_27423_Honorarios_PJN.txt) | [Descargar PDF](https://raw.githubusercontent.com/NoeliaOrsini/presupuestador-juridico-inteligente/main/knowledge/Ley_27423_Honorarios_PJN.pdf)
+
 ## 👩‍💻 Autora
 
 **Noelia Natalia María Orsini**  
